@@ -1,0 +1,7 @@
+name: Rate Joke
+on: workflow_dispatch
+jobs:
+  joke:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "fromJSON fromJSON fromJSON"
