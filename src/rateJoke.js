@@ -26,3 +26,4 @@ async function rateJoke(joke, token) {
 }
 
 module.exports = { rateJoke };
+// response_format
