@@ -13,7 +13,7 @@
     "openai": "^6.39.0"
   },
   "devDependencies": {
-    "@github/local-action": "^6.0.2"
+    "@github/local-action": "^7.0.1"
   },
   "main": "index.js",
   "repository": {
