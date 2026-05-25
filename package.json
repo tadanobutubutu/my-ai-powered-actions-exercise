@@ -9,9 +9,21 @@
   "type": "commonjs",
   "dependencies": {
     "@actions/core": "^1.11.1",
-    "@vercel/ncc": "^0.38.4"
+    "@vercel/ncc": "^0.38.4",
+    "openai": "^6.39.0"
   },
   "devDependencies": {
     "@github/local-action": "^6.0.2"
-  }
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tadanobutubutu/my-ai-powered-actions-exercise.git"
+  },
+  "keywords": [],
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/tadanobutubutu/my-ai-powered-actions-exercise/issues"
+  },
+  "homepage": "https://github.com/tadanobutubutu/my-ai-powered-actions-exercise#readme"
 }
